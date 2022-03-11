@@ -6,6 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Yassin522?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
 
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](:https://imgur.com/7be5fce0-3c41-4dbc-b776-41c16ce8c259)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
