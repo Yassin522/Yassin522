@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
-- ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I c
+- ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I can
 
 
 
@@ -31,7 +31,6 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
-
 
 
 
