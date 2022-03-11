@@ -36,27 +36,5 @@
 
 
 
-
-### Connect with me:
-
-[<img align="left" alt="Yassin522 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Yassin522 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Yassin522 | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Yassin522 | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-
-
-
-[instagram]: https://www.instagram.com/yaseen_almahdi5/
-[linkedin]: https://www.linkedin.com/in/yassin-abdulmahdi-273561210/
-[behance]: https://www.behance.net/yassinabdelmahdi
-[facebook]: https://www.facebook.com/yasin.almhdi.96/
-
-
-
-
-
-
-
-
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
