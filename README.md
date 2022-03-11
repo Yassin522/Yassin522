@@ -1,6 +1,6 @@
 ### Hi there, I'm Yassin  👋 
 
-[![Linkedin: Yassin](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
+[![Linkedin:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/yassin-abdulmahdi/)
 ![GitHub followers](https://img.shields.io/github/followers/Yassin522?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
 
