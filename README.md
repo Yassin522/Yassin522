@@ -21,6 +21,10 @@
 - ✉️ &nbsp;You can shoot me an email at yasinalmhdi8@gmail.com! I'll try to respond as soon as I can
 
 
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&locale=en" alt="Yassin522" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-streak-stats.herokuapp.com/?user=karam-mustafa&" alt="Yassin522" /></p>
+
+
 
 ## 🔧 Technologies & Tools
 
@@ -43,6 +47,4 @@
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&locale=en" alt="Yassin522" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-streak-stats.herokuapp.com/?user=karam-mustafa&" alt="Yassin522" /></p>
 
