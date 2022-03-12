@@ -39,7 +39,8 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
 
 
-
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&locale=en" alt="Yassin522" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-streak-stats.herokuapp.com/?user=karam-mustafa&" alt="Yassin522" /></p>
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
