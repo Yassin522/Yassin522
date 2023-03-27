@@ -43,11 +43,9 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
-
 ----  
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
-
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p><br/>
 ----
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yassin522&theme=dark&hide_border=false)<br/>
 
