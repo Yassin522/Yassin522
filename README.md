@@ -26,10 +26,6 @@
 
 
 
-## Support Me💰
-<a href="https://www.buymeacoffee.com/yasinalmhdA" target="_blank"><img height='35' style='border:0px;height:46px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me A Coffee' /> 
-
-
 
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
