@@ -31,7 +31,7 @@
 - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
 
-<img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif"></a>
+<img align="right" width="150" height="146" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif"></a>
 
 
 ## Watch my contributions get eaten by a snake 🐍
