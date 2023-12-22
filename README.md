@@ -26,12 +26,12 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">
 - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
-- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃
+- Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
 
-
+<img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif"></a>
 
 
 ## Watch my contributions get eaten by a snake 🐍
