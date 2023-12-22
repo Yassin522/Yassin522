@@ -26,9 +26,9 @@
 
 
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="70%">
 
 ## Find me around the web 🌎 
 - Practising on [Codeforces](https://codeforces.com/profile/Yassin52) 🙃
@@ -36,8 +36,8 @@
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/yassin-abdulmahdi/) 😇
 
     </td>
-    <td valign="top" width="50%">
-      <img align="right" width="150" height="146" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif">
+    <td valign="top" width="30%">
+      <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif">
     </td>
   </tr>
 </table>
