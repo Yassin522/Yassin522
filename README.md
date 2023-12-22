@@ -42,7 +42,7 @@
 
     </td>
     <td valign="top" width="30%">
-      <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/muichiro-tokito.gif">
+      <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/shinobu-kocho.gif">
     </td>
   </tr>
 </table>
