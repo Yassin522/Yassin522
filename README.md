@@ -26,7 +26,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif"></a>
 - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/yassin-abdulmahdi/">LinkedIn</a> 😇
@@ -38,7 +38,6 @@
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
 <img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/kyubey.gif" height="40" />
-
 
 ----  
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
