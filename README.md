@@ -44,3 +44,6 @@
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
 
 
+<br><br>
+<img src="https://raw.githubusercontent.com/Yassin52/Yassin52/master/assets/kyubey.gif" height="40" />
+<br><br><br>
