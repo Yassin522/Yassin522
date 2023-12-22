@@ -45,5 +45,5 @@
 
 
 <br><br>
-<img src="https://raw.githubusercontent.com/Yassin52/Yassin52/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/kyubey.gif" height="40" />
 <br><br><br>
