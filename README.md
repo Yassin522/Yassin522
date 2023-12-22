@@ -35,11 +35,9 @@
 
 
 ## Watch my contributions get eaten by a snake 🐍
-<img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/kyubey.gif" height="40" />
-
-
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
+<img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/kyubey.gif" height="40" />
 
 
 ----  
