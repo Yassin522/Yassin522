@@ -39,6 +39,11 @@
     <td valign="top" width="30%">
       <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif">
     </td>
+
+    </td>
+    <td valign="top" width="30%">
+      <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-kimetsu-no-yaiba.gif">
+    </td>
   </tr>
 </table>
 
