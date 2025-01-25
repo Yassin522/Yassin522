@@ -36,15 +36,6 @@
 - Practising on [LeetcoCode](https://leetcode.com/Yassin52/) 🙃
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/yassin-abdulmahdi/) 😇
 
-    </td>
-    <td valign="top" width="30%">
-      <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/demon-slayer-edit.gif">
-    </td>
-
-    </td>
-    <td valign="top" width="30%">
-      <img align="right" width="200" src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/butterfly_adda6106.gif.gif">
-    </td>
   </tr>
 </table>
 
