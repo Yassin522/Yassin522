@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![Image](https://github.com/user-attachments/assets/a6194af1-d0b6-425e-bfa1-fe8c71eee018)
 
 - 🧠 I’m currently learning everything
 - 👨‍🤝‍👨 I’m looking to collaborate with other content creators
