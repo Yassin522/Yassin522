@@ -6,11 +6,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/Yassin522?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://i.postimg.cc/xj31N3pj/1.png)
+![Image](https://github.com/user-attachments/assets/a6194af1-d0b6-425e-bfa1-fe8c71eee018)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-![Image](https://github.com/user-attachments/assets/a6194af1-d0b6-425e-bfa1-fe8c71eee018)
+
 
 - 🧠 I’m currently learning everything
 - 👨‍🤝‍👨 I’m looking to collaborate with other content creators
