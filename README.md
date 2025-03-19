@@ -101,16 +101,14 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
 
 
 
-## GitHub Stats 📊
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&theme=radical&hide_border=true" alt="Yassin's Github Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin522&theme=radical&hide_border=true" alt="Yassin's Github Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/kyubey.gif" height="40" />
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin's Top Languages" />
-</p>
+----  
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
 
 ## Watch My Contributions Get Eaten By A Snake 🐍
 ![snake gif](https://github.com/Yassin522/Yassin522/blob/output/github-contribution-grid-snake.svg)
