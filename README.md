@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Yassin522?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
 
-![Image](https://github.com/user-attachments/assets/a6194af1-d0b6-425e-bfa1-fe8c71eee018)
+<img width="2000" height="600" alt="Brown Modern Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/f3f2f425-c1e7-4d9b-a135-9ea5773940df" />
 
 ## 👨🏻‍💻 &nbsp;About Me
 
