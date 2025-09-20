@@ -44,15 +44,6 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
   </tr>
   <tr>
     <td valign="top">
-      <h3>NLP & Audio</h3>
-      <p>
-        <img src="https://img.shields.io/badge/NLTK-%23239120.svg?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-        <img src="https://img.shields.io/badge/SpaCy-%230060B1.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
-        <img src="https://img.shields.io/badge/Librosa-%23FF4081.svg?style=for-the-badge&logo=python&logoColor=white" alt="Librosa" />
-        <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" />
-      </p>
-    </td>
-    <td valign="top">
       <h3>Data Analysis</h3>
       <p>
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
