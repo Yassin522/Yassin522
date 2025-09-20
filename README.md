@@ -55,8 +55,6 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
         <img src="https://img.shields.io/badge/Data%20Storytelling-%234CAF50.svg?style=for-the-badge&logo=analytics&logoColor=white" alt="Data Storytelling" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>Web & Cloud</h3>
       <p>
@@ -68,6 +66,8 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
         <img src="https://img.shields.io/badge/BeautifulSoup-%238900F5.svg?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>Databases</h3>
       <p>
@@ -75,9 +75,7 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
         <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
+      <td valign="top">
       <h3>Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
