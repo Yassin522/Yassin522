@@ -109,8 +109,3 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
 
 <img src="https://raw.githubusercontent.com/Yassin522/Yassin522/master/assets/kyubey.gif" height="40" />
 
-----  
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
-
-
