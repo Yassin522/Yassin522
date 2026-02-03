@@ -16,7 +16,6 @@ I'm a Data Scientist and IT Engineering graduate with a passion for AI, machine 
 
 - I'm constantly expanding my knowledge in AI 
 - I'm looking to collaborate on innovative open-source projects
-- 2025 Goals: Contribute more to open-source projects and publish research
 - Reach me at: yasinalmhdi8@gmail.com
 
 
